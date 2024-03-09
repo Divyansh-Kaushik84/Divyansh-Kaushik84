@@ -37,13 +37,13 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/divyansh-kaushik-593135247" target="_blank">
+  <a href="https://linkedin.com/in/Divyansh-Kaushik-593135247" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/divyansh84_/" target="_blank">
+  <a href="https://www.instagram.com/divyansh84_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://gmail.com/divyansh.21scse1011672@galgotiasuniversity.edu.in" target="_blank">
+  <a href="https://84divyanshkaushik@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://hackerrank.com/84divyanshkaush1" target="_blank">
@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">The techs I use</h3>
+<h3 align="left">The techs is use</h3>
 
 ###
 
@@ -69,10 +69,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
+###
 
 <div align="center">
-  <br>
-  <br>
   <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
