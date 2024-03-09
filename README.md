@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">The techs is use</h3>
+<h3 align="left">The techs I use</h3>
 
 ###
 
