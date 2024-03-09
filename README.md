@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning iOS Development<br>-> Front End Developer || Competitive Programmer || iOS Developer || 3 ⭐ @HackerRank(Java) || Technical Head @ HealerMate || 2 ⭐@CodeChef || 250+ Leetcode || 75+ GFG ||</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning DSA and iOS Development<br>-> Front End Developer || Competitive Programmer || iOS Developer || 3 ⭐ @HackerRank(Java) || Technical Head @ HealerMate || 2 ⭐@CodeChef || 250+ Leetcode || 75+ GFG ||</p>
 
 ###
 
