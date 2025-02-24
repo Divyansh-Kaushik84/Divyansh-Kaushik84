@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Divyansh Kaushik and I'm a B.Tech III year student from Galgotias University</p>
+<p align="left">My name is Divyansh Kaushik and I'm a B.Tech IV year student from Galgotias University</p>
 
 ###
 
